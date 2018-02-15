@@ -1,0 +1,12 @@
+{
+  "name":"sourn/students1",
+  "authors":[
+    {
+      "name":"Sam Ourn",
+      "email":"sourn@mail.greenriver.edu"
+    }
+  ],
+  "require":{
+    "bcosca/fatfree-core":"dev-master"
+  }
+}
